@@ -1,0 +1,6 @@
+rootProject.name = 'mytest'
+include 'test-controller'
+include 'test-service'
+include 'test-mapper'
+include 'test-entity'
+

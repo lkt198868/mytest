@@ -1,0 +1,10 @@
+
+server:
+    port: 8070
+    servlet:
+      application-display-name: myTestSky
+      context-path: /myTestSky
+logging:
+  path: C:/tools/logs
+  config: classpath:test-logback.xml
+
